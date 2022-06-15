@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: application-onboarding 
-    repoURL: https://github.com/r3dact3d/gitops
+    repoURL: https://github.com/KEERTHIVEL28/gitops
     targetRevision: HEAD
   syncPolicy:
     automated:
