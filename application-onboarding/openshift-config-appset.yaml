@@ -16,7 +16,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: 'https://github.com/r3dact3d/gitops'
+        repoURL: 'https://github.com/KEERTHIVEL28/gitops'
         path: common-base/openshift-config
         targetRevision: HEAD
       destination:
